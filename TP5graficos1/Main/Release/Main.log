@@ -1,0 +1,3 @@
+﻿LINK : warning LNK4075: se omite '/INCREMENTAL' debido a la especificación '/LTCG'
+LINK : fatal error C1047: El objeto o el archivo de biblioteca 'C:\Users\Lichi\Desktop\TP5graficosdefinitivo\TP5graficos1\TP5graficos1\lib\nana\libs\nana_v140_Release_x86.lib' se creó con un compilador anterior a otros objetos; recompile las bibliotecas y los objetos antiguos
+LINK : fatal error LNK1257: error de generación de código

@@ -1,7 +1,6 @@
 #include <iostream>
 #include "../ScoreManager.h"
 #include <string>
-
 #include <nana/gui.hpp>
 #include <nana/gui/widgets/listbox.hpp>
 #include "nana/gui/widgets/label.hpp"
